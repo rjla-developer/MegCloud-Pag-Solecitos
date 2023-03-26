@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1200px) {
+    /* Tipografías */
+    .txt-size-1{
+        font-size: 4rem;
+    }
+
+    .txt-size-2{
+        font-size: 2rem;
+    }
+
+    .txt-size-3{
+        font-size: 1.5rem;
+    }
+
+    .txt-size-4{
+        font-size: 2rem;
+    }
+
+    .txt-size-5{
+        font-size: 1rem;
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Castillos",
+            "description": "Tempora, odit, quisquam optio doloribus sint vero temporibus quod dolores expedita tenetur pariatur minima id cum qui, omnis nesciunt veritatis veniam harum itaque. Blanditiis, sapiente voluptas dolores voluptatibus reiciendis cum rem accusamus id reprehenderit quod, ipsam laudantium doloribus iste. Cum cumque autem error minima sint ipsa ipsum distinctio consectetur sit!",
+            "image_url": "/images/template/item.png"
+        },
+        {
+            "id": 2,
+            "title": "Carros",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, sequi nam quasi repellat eaque voluptas ab natus corporis dignissimos! Fugit nam distinctio atque nihil et consequatur quo perspiciatis sequi, vel est natus consectetur enim cum tempora dolor unde ab debitis, optio at iure excepturi perferendis quisquam a eos? Optio, nisi.",
+            "image_url": "/images/template/item.png"
+        },
+        {
+            "id": 3,
+            "title": "Acuáticos",
+            "description": "Blanditiis quidem nam nulla, omnis assumenda numquam porro velit aut nisi accusamus neque veniam nobis repellendus, dicta officia iusto? Labore, illum velit. Sapiente ad quasi dignissimos eligendi eaque laboriosam rem consequuntur, libero, sed similique, enim ullam vel mollitia possimus est nemo! Repellat sequi rerum alias fugit facere temporibus illo velit.",
+            "image_url": "/images/template/item.png"
+        },
+        {
+            "id": 4,
+            "title": "Terrestres",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, sequi nam quasi repellat eaque voluptas ab natus corporis dignissimos! Fugit nam distinctio atque nihil et consequatur quo perspiciatis sequi, vel est natus consectetur enim cum tempora dolor unde ab debitis, optio at iure excepturi perferendis quisquam a eos? Optio, nisi.",
+            "image_url": "/images/template/item.png"
+        },
+        {
+            "id": 5,
+            "title": "Pequeños",
+            "description": "Blanditiis quidem nam nulla, omnis assumenda numquam porro velit aut nisi accusamus neque veniam nobis repellendus, dicta officia iusto? Labore, illum velit. Sapiente ad quasi dignissimos eligendi eaque laboriosam rem consequuntur, libero, sed similique, enim ullam vel mollitia possimus est nemo! Repellat sequi rerum alias fugit facere temporibus illo velit.",
+            "image_url": "/images/template/item.png"
+        },
+        {
+            "id": 6,
+            "title": "Voladores",
+            "description": "Blanditiis quidem nam nulla, omnis assumenda numquam porro velit aut nisi accusamus neque veniam nobis repellendus, dicta officia iusto? Labore, illum velit. Sapiente ad quasi dignissimos eligendi eaque laboriosam rem consequuntur, libero, sed similique, enim ullam vel mollitia possimus est nemo! Repellat sequi rerum alias fugit facere temporibus illo velit.",
+            "image_url": "/images/template/item.png"
+        }
+    ]
+}
