@@ -18,7 +18,8 @@ It is a dynamic website, it is built by static json currently but the structure 
 </br>
 
 ## Mobile demonstration: 
-![SolecitosPagMovil](https://user-images.githubusercontent.com/83847147/235211455-352c5bb4-73a1-4dcb-b02c-460f60ad9e9a.gif)
+![SolecitosPagMovil](https://user-images.githubusercontent.com/83847147/235215629-3cb807cc-2e56-4784-ae1d-24341299fd89.gif)
+
 
 </br>
 
